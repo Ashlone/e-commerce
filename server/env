@@ -1,0 +1,8 @@
+DATABASE='mongodb+srv://Botgoods:Thegreatamla(17)@cluster0.xpduz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+PORT=8000
+
+CLOUDINARY_CLOUD_NAME=thegreatamla
+CLOUDINARY_API_KEY=874578671284765
+CLOUDINARY_API_SECRET=YJVusFiTtmmGIVcjyHNG7YpB2WM
+
+STRIPE_SECRET=sk_test_51HWfySH25z7CLEKeQ9itaFw6h5GOtCpuVuqD58bBu8LvNYDMFhRuZyL7F6u5wcWjTLYMQxrxOc7gGWvGhWuU0sSP00B7frOOup
